@@ -11,9 +11,6 @@ A hard working and energetic person who loves to code.
 #### 👯 Other interests
 My interests are in java, kotlin and flutter.
 
-#### 📫 How can you reach me?
-Connect with me on [LinkedIn](https://www.linkedin.com/in/srdube).
-
 #### 💬 Want to know more about me?
 You can find my work on my [Portfolio](https://ssdcode.github.io/My-Portfolio/).
 
