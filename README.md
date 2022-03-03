@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning Android Application Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - You can connect with me at dubeysamir514@gmail.com
-
-⚡ Little bit more about me:
-
 - 🌱 I’m actively looking for oppotunities in Android Development.
 
 #### ⚡ One line that describes me best? 
