@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SSdCode
-- 👀 I’m interested in Android, Java, Kotlin, PHP, Python, and Django
-- 🌱 I’m currently learning Android Application Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - You can connect with me at dubeysamir514@gmail.com
+-👋 Hi, I’m @SSdCode
+-👀 I’m interested in Android, Java, Kotlin, PHP, Python, and Django
+-🌱 I’m currently learning Android Application Development.
+-💞️ I’m looking to collaborate on ...
+-📫 How to reach me - You can connect with me at dubeysamir514@gmail.com
 
 ⚡ Little bit more about me:
 
