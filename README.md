@@ -4,26 +4,21 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - You can connect with me at dubeysamir514@gmail.com
 
-Hi there 👋
-<br />
-I am Dhruv patel, an aspiring full-stack developer from Gujarat. Currently, I am learning full-stack web development <!--at Masai School-->. I love to build apps that are interesting and useful. 
-
 ⚡ Little bit more about me:
 
-<!-- - ⚗️ Though I hold Bachelor's degree in chemical engineering, I aspire to work as a programmer. -->
-- 🌱 I’m actively looking for oppotunities in full stack web development.
+- 🌱 I’m actively looking for oppotunities in Android Development.
 
 #### ⚡ One line that describes me best? 
 A hard working and energetic person who loves to code.
 
 #### 👯 Other interests
-I like to read books and watch short movies.
+My interests are in java, kotlin and flutter.
 
 #### 📫 How can you reach me?
-Connect with me on [Twitter](https://twitter.com/#) or [LinkedIn](https://www.linkedin.com/in/#).
+Connect with me on [LinkedIn](www.linkedin.com/in/srdube).
 
 #### 💬 Want to know more about me?
-You can find my work on my [Portfolio] <!--(https://akashvaghela.vercel.app). -->
+You can find my work on my [Portfolio] (https://ssdcode.github.io/My-Portfolio/).
 
 <br />
 
@@ -43,23 +38,21 @@ You can find my work on my [Portfolio] <!--(https://akashvaghela.vercel.app). --
 
 ## 📊 GitHub Stats
 
-![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv1103&count_private=true&show_icons=true&theme=tokyonight)
+![Samir GitHub stats](https://github-readme-stats.vercel.app/api?username=SSdCode&count_private=true&show_icons=true&theme=tokyonight)
 
-<!--![git contrubution](https://activity-graph.herokuapp.com/graph?username=dhruv1103&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true)-->
+![git contrubution](https://activity-graph.herokuapp.com/graph?username=SSdCode&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true)
 
 
 
 ## ✉️ Contact me 👇🏻
 
-[![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/dhruv1103)
-[![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/dhruv-patel1103) 
-[![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:dhruvvpatel12@gmail.com) 
-<!-- [![Twitter](https://img.icons8.com/plasticine/50/000000/twitter.png)](https://twitter.com/akashvaghela09) -->
+[![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/SSdCode)
+[![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](www.linkedin.com/in/srdube) 
+[![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:dubeysamir514@gmail.com) 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1103)](https://github.com/dhruv1103)
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1103" alt="dhruv_patel" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSdCode)](https://github.com/SSdCode)
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SSdCode" alt="Samir_Dubey" /></p>
    <br>
 
-![visits](https://visitor-badge.laobi.icu/badge?page_id=dhruv.visitor-badge)
+![visits](https://visitor-badge.laobi.icu/badge?page_id=samir.visitor-badge)
