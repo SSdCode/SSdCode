@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SSdCode
+- 👋 Hi, I’m Samir Dubey
 - 👀 I’m interested in Android, Java, Kotlin, PHP, Python, and Django
 - 🌱 I’m currently learning Android Application Development.
 - 💞️ I’m looking to collaborate on ...
