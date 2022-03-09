@@ -30,9 +30,9 @@ You can find my work on my [Portfolio](https://ssdcode.github.io/My-Portfolio/).
 ## 📊 GitHub Stats
 
 ![Samir GitHub stats](https://github-readme-stats.vercel.app/api?username=SSdCode&count_private=true&show_icons=true&theme=tokyonight)
-
+<!-- 
 ![git contrubution](https://activity-graph.herokuapp.com/graph?username=SSdCode&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true)
-
+ -->
 
 
 ## ✉️ Contact me 👇🏻
