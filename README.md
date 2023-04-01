@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samir Dubey
 - 👀 I’m interested in Android, Java, Kotlin, PHP, Python, and Django
-- 🌱 I’m currently learning Android Application Development.
+- 🌱 I’m currently learning jetpack compose and kotlin
 - 📫 How to reach me - You can connect with me at dubeysamir514@gmail.com
 - 🌱 I’m actively looking for oppotunities in Android Development.
 
