@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samir Dubey
-- 👀 I’m interested in Android, Java, Kotlin, PHP, Python, and Django
+- 👀 I’m interested in Android, Java, Kotlin and Jetpack Compose.
 - 🌱 I’m currently learning jetpack compose and kotlin
 - 📫 How to reach me - You can connect with me at dubeysamir514@gmail.com
 - 🌱 I’m actively looking for oppotunities in Android Development.
@@ -8,7 +8,7 @@
 A hard working and energetic person who loves to code.
 
 #### 👯 Other interests
-My interests are in java, kotlin and flutter.
+I am interested in andorid app development using java, kotlin, xml and jetpack compose.
 
 #### 💬 Want to know more about me?
 You can find my work on my [Portfolio](https://ssdcode.github.io/My-Portfolio/).
