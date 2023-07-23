@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samir Dubey
-- 👀 I’m interested in Android, Java, Kotlin and Jetpack Compose.
-- 🌱 I’m currently learning jetpack compose and kotlin
+- 👀 I’m Working in Android open source project. (AOSP)
+- 🌱 I’m currently learning new aspacts of AOSP, java and kotlin.
 - 📫 How to reach me - You can connect with me at dubeysamir514@gmail.com
 - 🌱 I’m actively looking for oppotunities in Android Development.
 
