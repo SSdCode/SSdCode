@@ -6,7 +6,7 @@ I'm a passionate **Android Open Source Project (AOSP)** Engineer with deep inter
 - 👨‍💻 I work with **Java**, **Kotlin**, **C/C++**, **XML**, and **Android Studio**.
 - 🌱 Continuously learning deeper aspects of **AOSP internals**, **HAL development**, **System Services**, **Binder IPC**, and modern **Kotlin-based app architecture**.
 - 🔭 Actively building tools and utilities to make Android customization easier.
-- 📫 Reach me at: **dubeysamir514@gmail.com**
+- 📫 Reach me at: **samirdubey.contact@gmail.com**
 - 🚀 Open to exciting **Android Development** opportunities (AOSP or App level)!
 
 ---
