@@ -2,12 +2,12 @@
 
 I'm a passionate **Android Open Source Project (AOSP)** Engineer with deep interest in customizing and extending the Android platform. I specialize in **low-level Android internals** and **application-layer development**, bridging the gap between AOSP and modern Android apps.
 
-- 💼 Currently working on **AOSP-based projects** for Samsung S21 and other platforms.
+- 💼 Currently working on **AOSP-based projects**.
 - 👨‍💻 I work with **Java**, **Kotlin**, **C/C++**, **XML**, and **Android Studio**.
 - 🌱 Continuously learning deeper aspects of **AOSP internals**, **HAL development**, **System Services**, **Binder IPC**, and modern **Kotlin-based app architecture**.
 - 🔭 Actively building tools and utilities to make Android customization easier.
 - 📫 Reach me at: **samirdubey.contact@gmail.com**
-- 🚀 Open to exciting **Android Development** opportunities (AOSP or App level)!
+- 🚀 Open to exciting **Android Development** opportunities.
 
 ---
 
