@@ -1,48 +1,64 @@
-- 👋 Hi, I’m Samir Dubey
-- 👀 I’m Working in Android open source project. (AOSP)
-- 🌱 I’m currently learning new aspacts of AOSP, java and kotlin.
-- 📫 How to reach me - You can connect with me at dubeysamir514@gmail.com
-- 🌱 I’m actively looking for oppotunities in Android Development.
+# 👋 Hi there, I'm Samir Dubey
 
-#### ⚡ One line that describes me best? 
-A passionate AOSP Android Developer eagerly learning and adopting to latest technologies in Android
+I'm a passionate **Android Open Source Project (AOSP)** Engineer with deep interest in customizing and extending the Android platform. I specialize in **low-level Android internals** and **application-layer development**, bridging the gap between AOSP and modern Android apps.
 
-#### 👯 Other interests
-I'm interested in Android app development using Java, Kotlin, XML and Android Studio.
+- 💼 Currently working on **AOSP-based projects** for Samsung S21 and other platforms.
+- 👨‍💻 I work with **Java**, **Kotlin**, **C/C++**, **XML**, and **Android Studio**.
+- 🌱 Continuously learning deeper aspects of **AOSP internals**, **HAL development**, **System Services**, **Binder IPC**, and modern **Kotlin-based app architecture**.
+- 🔭 Actively building tools and utilities to make Android customization easier.
+- 📫 Reach me at: **dubeysamir514@gmail.com**
+- 🚀 Open to exciting **Android Development** opportunities (AOSP or App level)!
 
-#### 💬 Want to know more about me?
-You can find my work on [Portfolio](https://ssdcode.github.io/My-Portfolio/).
+---
 
-<br />
-<!-- 
-## 👨🏻‍💻 Tech Stack
+## ⚡ One-liner About Me
 
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-<br />
+**An AOSP Android Developer constantly evolving with the platform and excited to adopt the latest in Android technologies.**
 
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+---
 
+## 👨🏻‍💻 What I Do
 
-<br />
- -->
+- 🔧 Customize AOSP: system apps, frameworks, services, permissions, and SEPolicy.
+- 📱 Build Android Apps: using Java/Kotlin, Jetpack, Material Design, and AndroidX libraries.
+- 💡 Explore low-level Android: HALs, JNI, NDK, boot process, OTA, debugging, and memory management.
+- 🛠️ Develop Android system modules, tools, and productivity enhancements.
+
+---
+
+## 🧠 Currently Exploring
+
+- ☑️ Android HAL (HIDL/AIDL) and driver integration
+- ☑️ System UI customization and Settings app modifications
+- ☑️ Jetpack Compose, Kotlin coroutines, and modern architecture patterns (MVVM, DI)
+- ☑️ Building personal Android dev tools and AOSP guides
+
+---
+
+## 🔗 Portfolio
+
+Take a look at my work and writing:  
+👉 **[https://samird.vercel.app](https://samird.vercel.app)**
+
+---
+
 ## 📊 GitHub Stats
 
-![Samir GitHub stats](https://github-readme-stats.vercel.app/api?username=SSdCode&count_private=true&show_icons=true&theme=tokyonight)
-<!-- 
-![git contrubution](https://activity-graph.herokuapp.com/graph?username=SSdCode&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true)
- -->
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSdCode&count_private=true&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SSdCode&layout=compact&theme=tokyonight)
 
-## ✉️ Contact me 👇🏻
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SSdCode&theme=tokyonight&hide_border=true)
 
-[![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/SSdCode)
-[![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](www.linkedin.com/in/srdube) 
-[![Email](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:dubeysamir514@gmail.com) 
+---
 
+## 🌐 Connect With Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSdCode)](https://github.com/SSdCode)
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SSdCode" alt="Samir_Dubey" /></p>
-   <br>
+[![GitHub](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/SSdCode)
+[![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/srdube)
+[![Email](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:samirdubey.contact@gmail.com)
 
-![visits](https://visitor-badge.laobi.icu/badge?page_id=samir.visitor-badge)
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SSdCode.visitor-badge)
+
