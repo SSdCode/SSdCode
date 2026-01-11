@@ -1,50 +1,62 @@
 # 👋 Hi there, I'm Samir Dubey
 
-I'm a passionate **Android Open Source Project (AOSP)** Engineer with deep interest in customizing and extending the Android platform. I specialize in **low-level Android internals** and **application-layer development**, bridging the gap between AOSP and modern Android apps.
+I'm a **Software Engineer (AOSP)** specializing in **Android System Frameworks**, **Performance Optimization**, and **Platform Stability**. With **3+ years of experience**, I bridge the gap between hardware and software, customizing the Android OS for enterprise-grade devices.
 
-- 💼 Currently working on **AOSP-based projects**.
-- 👨‍💻 I work with **Java**, **Kotlin**, **C/C++**, **XML**, and **Android Studio**.
-- 🌱 Continuously learning deeper aspects of **AOSP internals**, **HAL development**, **System Services**, **Binder IPC**, and modern **Kotlin-based app architecture**.
-- 🔭 Actively building tools and utilities to make Android customization easier.
+- 💼 Currently working as a **Software Engineer**.
+- 📱 I manage **Security Maintenance Releases (SMR)** and optimize performance for **Android 11/13/14** devices.
+- 🛠️ Deep expertise in **AOSP Internals**, **Binder IPC**, **System Services**, **HAL (AIDL/HIDL)**, and **SELinux**.
+- 🐛 Specialist in **Root Cause Analysis** for **CTS/VTS/GTS** compliance and **System Crashes (ANRs/Watchdogs)**.
 - 📫 Reach me at: **samirdubey.contact@gmail.com**
-- 🚀 Open to exciting **Android Development** opportunities.
 
 ---
 
 ## ⚡ One-liner About Me
 
-**An AOSP Android Developer constantly evolving with the platform and excited to adopt the latest in Android technologies.**
+**"A System-Level Android Engineer obsessed with stability, performance, and making hardware talk to software efficiently."**
 
 ---
 
-## 👨🏻‍💻 What I Do
+## 🛠️ Tech Stack & Arsenal
 
-- 🔧 Customize AOSP: system apps, frameworks, services, permissions, and SEPolicy.
-- 📱 Build Android Apps: using Java/Kotlin, Jetpack, Material Design, and AndroidX libraries.
-- 💡 Explore low-level Android: HALs, JNI, NDK, boot process, OTA, debugging, and memory management.
-- 🛠️ Develop Android system modules, tools, and productivity enhancements.
-
----
-
-## 🧠 Currently Exploring
-
-- ☑️ Android HAL (HIDL/AIDL) and driver integration
-- ☑️ System UI customization and Settings app modifications
-- ☑️ Jetpack Compose, Kotlin coroutines, and modern architecture patterns (MVVM, DI)
-- ☑️ Building personal Android dev tools and AOSP guides
+| Domain | Skills |
+| :--- | :--- |
+| **System Internals** | AOSP, Android Framework, System Services, Binder IPC, HAL, Treble, JNI |
+| **Debugging** | Perfetto, Systrace, Ramdump Analysis, GDB, Crash Dumps, Logcat, Hprof |
+| **Compliance** | CTS, VTS, GTS, BTS (XTS Failure Analysis) |
+| **Build & DevOps** | Soong (Android.bp), Makefiles, Jenkins, Gerrit, Repo, Git, Docker |
+| **Languages** | Java, Kotlin, C, C++, Bash/Shell Scripting |
+| **Edge AI & IoT** | TensorFlow Lite (Embedded), MQTT, AWS IoT |
 
 ---
 
-## 🔗 Portfolio
+## 👨🏻‍💻 Featured System Projects
 
-Take a look at my work and writing:  
+### 🛡️ Device Abuse Detection System (Enterprise Feature)
+Built an AOSP-integrated monitoring system to detect device misuse (drops, throws, impacts).
+- **Tech:** Android Sensor Framework, **TensorFlow Lite** (Edge AI), Foreground Services.
+- **Impact:** Enabled real-time telemetry via **MQTT** for enterprise asset tracking.
+
+### 🔘 SoftTrigger (System Framework)
+Architected an AssistiveTouch-style floating hardware trigger for industrial scanning.
+- **Tech:** Custom System Service, **Binder IPC**, SystemUI.
+- **Features:** Dynamic configuration via Settings, persistent state, and zero-latency input handling.
+
+### 📱 Custom ROM Engineering (LineageOS 20)
+Ported and customized LineageOS 20 for the Redmi Note 7 Pro.
+- **Tech:** Device Tree integration, Kernel pipeline analysis (Flashlight/Camera), Bloatware removal.
+
+---
+
+## 🔗 Portfolio & Writing
+
+Check out my detailed case studies and technical blogs:  
 👉 **[https://samird.vercel.app](https://samird.vercel.app)**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSdCode&count_private=true&show_icons=true&theme=tokyonight)
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSdCode&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SSdCode&layout=compact&theme=tokyonight)
 
@@ -54,11 +66,14 @@ Take a look at my work and writing:
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/SSdCode)
-[![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/srdube)
-[![Email](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:samirdubey.contact@gmail.com)
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SSdCode.visitor-badge)
-
+<div align="center">
+  <a href="https://github.com/SSdCode">
+    <img src="https://img.icons8.com/plasticine/50/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/srdube">
+    <img src="https://img.icons8.com/plasticine/50/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:samirdubey.contact@gmail.com">
+    <img src="https://img.icons8.com/plasticine/50/000000/gmail-new.png" alt="Email"/>
+  </a>
+</div>
